@@ -11,14 +11,21 @@ div{
     background-color: #fa7db1;
 }
 
-div[class="Box"] {
+div.Box {
     text-align: left;
     border-radius: 2px;
     margin: auto;
     margin: 0px 15%;
     font-size: 10px;
 }
-hr{
-    
-    visibility: hidden;
+
+p.Text{
+    align-content: center;
+    margin: 0 24%;
+    color: #779169;
+    background-color: #f8e7fd;
+    padding: 3px;
+    border-radius: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 60%;
 }
